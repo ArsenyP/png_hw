@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\source\repos\png\png\source.cpp(55): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\user\source\repos\png\png\source.cpp(55): warning C4309: инициализация: усечение константного значения
+c:\users\user\source\repos\png\png\source.cpp(58): warning C4101: CRC: неиспользованная локальная переменная
+c:\users\user\source\repos\png\png\source.cpp(56): warning C4101: length: неиспользованная локальная переменная
+  PNG.vcxproj -> C:\Users\user\source\repos\PNG\Debug\PNG.exe
